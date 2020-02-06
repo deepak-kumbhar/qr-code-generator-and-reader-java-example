@@ -1,23 +1,19 @@
 # Generate and Read QR Code in Java
-
-Relevant Tutorials -
-
-+ https://www.callicoder.com/generate-qr-code-in-java-using-zxing/
-+ https://www.callicoder.com/qr-code-reader-scanner-in-java-using-zxing/
+In this example you'll learn to generate QR code using zxing liabrary.
 
 ## Steps to Run
 
 1. Clone the repository
 
 ```
-git clone git@github.com:callicoder/qr-code-generator-and-reader.git
+git clone https://github.com/deepak-kumbhar/qr-code-generator-and-reader-java-example.git
 ```
 
 2. Run the program using maven
 
 ```
-cd qr-code-generator-and-reader
+cd qr-code-generator-and-reader-java-example
 mvn package
-java -jar target/qr-code-generator-and-reader-1.0-SNAPSHOT.jar 
+java -jar target/qr-code-generator-and-reader-java-example-1.0-SNAPSHOT.jar 
 ```
 
